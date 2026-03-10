@@ -27,4 +27,5 @@ py -3.11 -m src.Work0.main
 
 ## 运行效果演示
 
-![Particle Simulation](demo.gif)
+![Particle Simulation](../demo.gif)
+
